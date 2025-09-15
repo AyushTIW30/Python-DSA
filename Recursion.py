@@ -1,5 +1,3 @@
-# recursive_functions.py
-
 # Function 1: Calculate sum of numbers from 0 to n using recursion
 def sum_recursive(total, i, n):
     """
